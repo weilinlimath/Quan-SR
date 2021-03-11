@@ -4,7 +4,7 @@ Code includes the following features
 2. Includes recovery methods based on convex optimization and subspace estimation
 
 Requires the following third party features
-1. CVX (or any other suitable convex solver)
-2. Matlab's parallel computing toolbox (not necessary but greatly reduces the run time)
+1. CVX (http://cvxr.com) or any other suitable convex solver
+2. Matlab's parallel computing toolbox (although not strictly necessary, it greatly reduces the run time)
 
 Run the script to reproduce the numerical experiments in the paper "Quantization for spectral super-resolution" by Weilin Li and Sinan Gunturk, https://arxiv.org/abs/2103.00079
